@@ -1,0 +1,19 @@
+{
+  "name": "steam-market-alternative",
+  "version": "0.0.1",
+  "description": "![Image Description](https://i.imgur.com/Xgdg11U.png)",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ziirofan/steam-alternative-market.git"
+  },
+  "author": "Ziirofan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Ziirofan/steam-alternative-market/issues"
+  },
+  "homepage": "https://github.com/Ziirofan/steam-alternative-market#readme"
+}
